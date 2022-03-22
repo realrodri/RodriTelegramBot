@@ -1,6 +1,5 @@
 # RodriTelegramBot
 My Telegram Bot for companies to find out more about me. Check it out!
-If you want to interact with my bot: @RSG_Official_Bot on Telegram!
 
 # Requirements
 I made this bot using JavaScript running it on a NodeJS server. There's a "nodemon" package where you should install to get this bot running even when you edit the files.
@@ -16,6 +15,9 @@ You'll need to install the first 3 using "npm i [nameofthepackage]", and the las
 
 # Usage
 You can either do "node bot.js" to have the bot running, or with a better way: "npm run dev", which will load the "nodemon" package and keep the bot running and always restarting when needed (when you make changes, obviously).
+
+# My Telegram Bot
+If you want to interact with my bot: [https://t.me/RSG_Official_Bot](@RSG_Official_Bot)!
 
 # License
 You may use this code to make your own Telegram bot or any usage you may want with the exceptions of the following:
