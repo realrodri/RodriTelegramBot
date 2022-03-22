@@ -1,5 +1,6 @@
 # RodriTelegramBot
 My Telegram Bot for companies to find out more about me. Check it out!
+If you want to interact with my bot: @RSG_Official_Bot on Telegram!
 
 # Requirements
 I made this bot using JavaScript running it on a NodeJS server. There's a "nodemon" package where you should install to get this bot running even when you edit the files.
